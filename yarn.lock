@@ -1209,21 +1209,21 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@healthcarelocator/sdk-react@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@healthcarelocator/sdk-react/-/sdk-react-0.1.1.tgz#327fce665fdd1c33a87f41aea7531b1a1d6f0734"
-  integrity sha512-vkvOXJUN3hr+dKtRbMTfXQ7MU9mvdfkj4pZTq7fIo68Y2d77z50JCycVCNfmIjpD8LN7jxDDBL6g0Flm6jf+0w==
+"@healthcarelocator/sdk-react@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@healthcarelocator/sdk-react/-/sdk-react-0.1.2.tgz#474aa0cbdc3466c4b7a25d84fe9195c0b662f3cc"
+  integrity sha512-RZuonunSNmwGtQbaZA0vhor8VO5aECaR9spIjZzx3F7gQNi30ljjyYHYflevCYj1DF7+3eQkI8CHUIVNrO7h6w==
   dependencies:
-    "@healthcarelocator/sdk-web" "^0.1.2"
+    "@healthcarelocator/sdk-web" "^0.1.8"
     "@types/node" "^12.0.0"
     "@types/react" "^17.0.0"
     "@types/react-dom" "^17.0.0"
     typescript "^4.1.2"
 
-"@healthcarelocator/sdk-web@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@healthcarelocator/sdk-web/-/sdk-web-0.1.2.tgz#0f9357dfa66103de8ddbd265a643037e6438f1eb"
-  integrity sha512-uTJaIBSmLlPlZzklB7DsUT3/1OlTj1KtLMF7Y9/zefZ25i19selh+rk93O+m7MYKtF/QXvUOvuhzCzHD8/bWkA==
+"@healthcarelocator/sdk-web@^0.1.8":
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/@healthcarelocator/sdk-web/-/sdk-web-0.1.8.tgz#a7e78d6d5efc1e28525e386ce1371c80acc8b12a"
+  integrity sha512-MKIsbtD9CLUOzSL9BNMECFPwO7ouI7PlWZSlX8Up/sDrM+B4vAiQhQo1R9K3cXN0Pfjd8WOqW+JMEvmp8dTHLA==
   dependencies:
     "@stencil/store" "^1.3.0"
     axios "^0.21.0"
